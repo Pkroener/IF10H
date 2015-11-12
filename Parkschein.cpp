@@ -29,3 +29,5 @@ int main(){
 			<<"Sie muessen "<<dBetrag<< " € bezahlen.";
 	}
 }
+Diese Zeile ist nur zum testen
+
